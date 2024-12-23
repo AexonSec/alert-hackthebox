@@ -59,8 +59,8 @@ func main() {
         
        Exploit Automation Script
     --------------------------------
-    Sebelum menjalankan script ini, jalankan perintah:
-    sudo nc -lvnp 80
+    harus di jalankan dengan sudo
+    sudo go run nc.go
     --------------------------------
     `)
 
