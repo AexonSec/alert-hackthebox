@@ -8,3 +8,7 @@ jalankan command
 sudo go run nc.go
 ```
 setelah menjalankan command di atas, jalankan juga script exploit.go , masukan data yang ada di input
+
+```bash
+go run exploit.go
+```
